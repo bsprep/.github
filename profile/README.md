@@ -12,7 +12,7 @@
 
 ### Our Ecosystem
 
-Welcome to our open-source organization! Here is a high-level overview of our core platforms that power the BSPrep experience.
+Welcome to our BS Prep organization! Here is a high-level overview of our core platforms that power the BSPrep experience.
 
 <br/>
 
@@ -75,3 +75,6 @@ Across our repositories, we utilize modern tools to ensure blazing fast performa
 <div align="center">
   <i>BSPrep is a student-led initiative and is not officially affiliated with IIT Madras.</i>
 </div>
+
+**This code cannot be used anywhere. It is not open source and not available for reuse, copying or redistribution.**
+
