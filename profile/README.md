@@ -8,6 +8,15 @@
   [Website](https://bsprep.in) • [Blog](https://blog.bsprep.in) • [Ambassador Program](https://ambassador.bsprep.in)
 </div>
 
+## About
+BSPrep is a student led initiative. It is not affiliated with IIT Madras or any official institution.
+
+- Official website: [bsprep.in](https://bsprep.in)
+- Blog website: [blog.bsprep.in](https://blog.bsprep.in)
+- Ambassador Portal: [ambassador.bsprep.in](https://ambassador.bsprep.in)
+
+**This code cannot be used anywhere. It is not open source and not available for reuse, copying or redistribution.**
+
 ---
 
 ## Our Ecosystem
@@ -71,15 +80,5 @@ Across our repositories, we utilize modern tools to ensure blazing fast performa
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-## About
-BSPrep is a student led initiative. It is not affiliated with IIT Madras or any official institution.
-
-- Official website: [bsprep.in](https://bsprep.in)
-- Blog website: [blog.bsprep.in](https://blog.bsprep.in)
-- Ambassador Portal: [ambassador.bsprep.in](https://ambassador.bsprep.in)
-
-**This code cannot be used anywhere. It is not open source and not available for reuse, copying or redistribution.**
 
 
