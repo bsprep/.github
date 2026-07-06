@@ -74,7 +74,7 @@ Across our repositories, we utilize modern tools to ensure blazing fast performa
 ---
 <div align="center">
   <i>BSPrep is a student-led initiative and is not officially affiliated with IIT Madras.</i>
+  **This code cannot be used anywhere. It is not open source and not available for reuse, copying or redistribution.**
 </div>
 
-**This code cannot be used anywhere. It is not open source and not available for reuse, copying or redistribution.**
 
