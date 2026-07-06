@@ -72,9 +72,14 @@ Across our repositories, we utilize modern tools to ensure blazing fast performa
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-<div align="center">
-  <i>BSPrep is a student-led initiative and is not officially affiliated with IIT Madras.</i>
-  **This code cannot be used anywhere. It is not open source and not available for reuse, copying or redistribution.**
-</div>
+
+## About
+BSPrep is a student led initiative. It is not affiliated with IIT Madras or any official institution.
+
+- Official website: [bsprep.in](https://bsprep.in)
+- Blog website: [blog.bsprep.in](https://blog.bsprep.in)
+- Ambassador Portal: [ambassador.bsprep.in](https://ambassador.bsprep.in)
+
+**This code cannot be used anywhere. It is not open source and not available for reuse, copying or redistribution.**
 
 
