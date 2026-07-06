@@ -61,6 +61,8 @@ Welcome to our BS Prep organization! Here is a high-level overview of our core p
 
 <br/>
 
+---
+
 ## Tech Stack
 
 Across our repositories, we utilize modern tools to ensure blazing fast performance and secure infrastructure:
